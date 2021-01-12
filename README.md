@@ -1,6 +1,6 @@
 # CIFAR-10-Image-Classifier
 
-Welcome to the CIFAR-10 Image Classifier. This project was created as part of the Bootcamp for the Computer Vision Team of the University of Waterloo Aerial Robotics Group.
+Welcome to the CIFAR-10 Image Classifier. This project was created as part of a Bootcamp for the Computer Vision Team of the University of Waterloo Aerial Robotics Group.
 
 # Languages, Libraries and Frameworks used:
 - Python
